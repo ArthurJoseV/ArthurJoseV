@@ -40,14 +40,10 @@ Meu objetivo é desenvolver sistemas escaláveis, seguros e testados, unindo boa
 
 ---
 
-## 👾 Contribuições (Atualizado Diariamente)
+## 👾 Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurJoseV/ArthurJoseV/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurJoseV/ArthurJoseV/output/github-snake.svg">
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/ArthurJoseV/ArthurJoseV/output/github-snake.svg">
-  </picture>
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ArthurJoseV/ArthurJoseV/output/github-contribution-grid-snake.svg">
 </div>
 
 ## 🚀 O que tenho feito
