@@ -6,7 +6,7 @@
     <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/ArthurJoseV/ArthurJoseV/output/github-snake.svg">
   </picture>
 </div>
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em backend, microsserviços e infraestrutura. Tenho experiência prática na construção de APIs robustas e na orquestração de contêineres em nuvem. Atualmente, estou expandindo minha base técnica para o ecossistema corporativo.
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em backend, microsserviços e infraestrutura. Tenho experiência prática na construção de APIs robustas e na orquestração de contêineres em nuvem. Atualmente, estou expandindo minha base técnica para o ecossistema corporativo.
 
 Meu objetivo é desenvolver sistemas escaláveis, seguros e testados, unindo boas práticas de código com arquitetura moderna.
 
